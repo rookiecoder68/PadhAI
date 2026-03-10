@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors -->
+    <color name="primary">#818CF8</color>
+    <color name="primary_dark">#6366F1</color>
+    <color name="primary_light">#A5B4FC</color>
+    <color name="accent">#FBBF24</color>
+    <color name="background">#111827</color>
+    <color name="surface">#1F2937</color>
+    <color name="error">#F87171</color>
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="divider">#374151</color>
+    
+    <!-- Status colors -->
+    <color name="success">#34D399</color>
+    <color name="warning">#FBBF24</color>
+    <color name="info">#60A5FA</color>
+    
+    <!-- App icon colors -->
+    <color name="ic_launcher_bg">#6366F1</color>
+
+    <!-- Additional semantic colors -->
+    <color name="card_background">#1F2937</color>
+    <color name="divider_color">#374151</color>
+    <color name="success_green">#34D399</color>
+    <color name="error_red">#F87171</color>
+    <color name="focus_active_bg">#312E81</color>
+</resources>

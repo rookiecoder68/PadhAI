@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#818CF8</color>
+    <color name="accent">#F59E0B</color>
+    <color name="background">#F9FAFB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#EF4444</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="divider">#E5E7EB</color>
+    
+    <!-- Status colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- App icon colors -->
+    <color name="ic_launcher_bg">#6366F1</color>
+
+    <!-- Additional semantic colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider_color">#E5E7EB</color>
+    <color name="success_green">#10B981</color>
+    <color name="error_red">#EF4444</color>
+    <color name="focus_active_bg">#EEF2FF</color>
+</resources>

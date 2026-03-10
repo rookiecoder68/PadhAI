@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PadhAI</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up_to_get_started">Sign up to get started</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- Navigation -->
+    <string name="title_learn">Learn</string>
+    <string name="title_focus">Focus</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_analytics">Analytics</string>
+    <string name="title_profile">Profile</string>
+    
+    <!-- Learn Tab -->
+    <string name="upload_notes">Upload Notes</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="summarize">Summarize</string>
+    <string name="save_notes">Save Notes</string>
+    <string name="notes_library">Notes Library</string>
+    
+    <!-- Focus Tab -->
+    <string name="focus_mode">Focus Mode</string>
+    <string name="pomodoro_timer">Pomodoro Timer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="work_time">Work Time</string>
+    <string name="break_time">Break Time</string>
+    
+    <!-- Quiz Tab -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="next_question">Next Question</string>
+    <string name="submit">Submit</string>
+    
+    <!-- Analytics Tab -->
+    <string name="total_study_time">Total Study Time</string>
+    <string name="study_streak">Study Streak</string>
+    <string name="sessions_completed">Sessions Completed</string>
+    
+    <!-- Profile Tab -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="learning_goal">Learning Goal</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="save_changes">Save Changes</string>
+</resources>

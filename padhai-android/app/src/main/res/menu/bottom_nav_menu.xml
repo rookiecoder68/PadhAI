@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_learn"
+        android:icon="@drawable/ic_book"
+        android:title="Learn" />
+
+    <item
+        android:id="@+id/navigation_focus"
+        android:icon="@drawable/ic_timer"
+        android:title="Focus" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="Quiz" />
+
+    <item
+        android:id="@+id/navigation_analytics"
+        android:icon="@drawable/ic_analytics"
+        android:title="Analytics" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+</menu>
